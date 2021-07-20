@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480194600971",
+    "project_id": "board-cac30",
+    "storage_bucket": "board-cac30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480194600971:android:48a154cb3f5e19565de70e",
+        "android_client_info": {
+          "package_name": "com.rozevinni.board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480194600971-r04bgn8qt95kk420lmjnt26q65vd0a53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rozevinni.board",
+            "certificate_hash": "48da1adea5057066223c3ad96b495d8428181f44"
+          }
+        },
+        {
+          "client_id": "480194600971-m4j9q9jbo4mp2qsc8v99s9q0ch5ktmrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV675wzU8nbPO7BTYRaqGMXx3nK1GfM8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480194600971-m4j9q9jbo4mp2qsc8v99s9q0ch5ktmrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
